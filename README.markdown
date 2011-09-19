@@ -3,15 +3,15 @@ will also help me become familiar with github.) I don't expect this to be useful
 anyone's favorite audio player, but nevertheless it is fully functioning.  
 
 ## Features
-*Querying your music library
-*Visualizing embedded album art 
-*Other standard features (buttons!)
+* Querying your music library
+* Visualizing embedded album art 
+* Other standard features (buttons!)
 
 ## Components
-*Qt for the GUI
-*Sqlite3 to store and query the music library
-*Taglib to extract song data
-*Bass c library for audio playback
+* Qt for the GUI
+* Sqlite3 to store and query the music library
+* Taglib to extract song data
+* Bass c library for audio playback
 
 ## Documentation
 
