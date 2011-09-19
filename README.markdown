@@ -1,6 +1,8 @@
 Pianissimo is a simple audio player, which I've made for more or less for kicks. (This repository 
 will also help me become familiar with github.) I don't expect this to be useful enough to become 
-anyone's favorite audio player, but nevertheless it is fully functioning.  
+anyone's favorite audio player, but nevertheless it is fully functioning.  What I do hope for 
+is that others might find this useful as an introductory exercise to GUI development, and standing 
+on the shoulders of giants.    
 
 ## Features
 * Querying your music library
